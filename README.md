@@ -12,7 +12,7 @@
 
 ## Samples для быстрого старта
 
-- **react/query** - https://github.com/debabin/shift-winter-2024-task/tree/react/query
-- **react/redux** - https://github.com/debabin/shift-winter-2024-task/tree/react/redux
-- **vue** - https://github.com/debabin/shift-winter-2024-task/tree/vue
-- **html/css/js** - https://github.com/debabin/shift-winter-2024-task/tree/html/css/js
+- **react/query** - https://github.com/shift-intensiv/frontend-sample/tree/react/query
+- **react/redux** - https://github.com/shift-intensiv/frontend-sample/tree/react/redux
+- **vue** - https://github.com/shift-intensiv/frontend-sample/tree/vue
+- **html/css/js** - https://github.com/shift-intensiv/frontend-sample/tree/html/css/js
